@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Lucas",
+    "candy": 10,
+    "likesPokemon": true,
+    "pizzaToppings": ["tomate", "jamon"]
+  },
+  {
+    "name": "Rubén",
+    "candy": 15,
+    "likesPokemon": false,
+    "pizzaToppings": ["piña"]
+  },
+  {
+    "name": "Alejandro Cuevas",
+    "candy": 8,
+    "likesPokemon": true,
+    "pizzaToppings": ["tomate", "peperoni", "piña"]
+  },
+  {
+    "name": "Dani",
+    "candy": 18,
+    "likesPokemon": true,
+    "pizzaToppings": ["peperoni", "tomate"]
+  },
+  {
+    "name": "Mercedes",
+    "candy": 14,
+    "likesPokemon": false,
+    "pizzaToppings": ["jamon", "piña"]
+  }
+]
